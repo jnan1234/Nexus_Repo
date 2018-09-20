@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://nexusrepo.com:8081/repository/Test_Release/</url>
+            <url>http://192.168.253.152:8081/repository/Test_Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
